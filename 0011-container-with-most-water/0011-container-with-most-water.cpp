@@ -15,7 +15,11 @@ while (lp < rp) {
 
     maxwater = max(maxwater, current_water);
 
-    height[lp] < height[rp] ? lp++ : rp--;
+    if (height[lp] < height[rp]) {
+    lp++;
+} else {
+    rp--;
+}
 
 }
 
