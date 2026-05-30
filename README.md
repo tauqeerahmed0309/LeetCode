@@ -71,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0867-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
