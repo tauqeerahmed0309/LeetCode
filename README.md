@@ -65,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0076-minimum-window-substring) |
 | [0229-majority-element-ii](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0076-minimum-window-substring) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
