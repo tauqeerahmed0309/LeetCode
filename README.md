@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0011-container-with-most-water) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting
 |  |
 | ------- |
