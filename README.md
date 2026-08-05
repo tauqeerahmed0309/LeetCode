@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0035-search-insert-position) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0076-minimum-window-substring) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0240-search-a-2d-matrix-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
