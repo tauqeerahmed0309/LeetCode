@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0229-majority-element-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0349-intersection-of-two-arrays) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tauqeerahmed0309/https-github.com-tauqeerahmed0309-Leetcode_progress/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
