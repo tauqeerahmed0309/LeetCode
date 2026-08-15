@@ -9,13 +9,11 @@ public:
             if(i>0&&nums[i]==nums[i-1]){
                 continue;
             }
-
             int target=0-nums[i];
             int j=i+1;
             int k=nums.size()-1;
 
             while(j<k){
-
                 if(nums[j]+nums[k]==target){
                     ans.push_back({nums[i],nums[j],nums[k]});
 
